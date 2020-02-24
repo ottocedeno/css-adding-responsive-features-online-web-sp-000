@@ -67,7 +67,7 @@
     padding: 10px 20px;
     width: auto;
   }
-  #logo h2 {
-    display: none;
+  #logo {
+    padding: 60px 0 0;
   }
 }
